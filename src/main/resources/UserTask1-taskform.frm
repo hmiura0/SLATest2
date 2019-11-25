@@ -1,0 +1,1 @@
+{"id":"5e2fbc59-da2f-41b3-bd82-4bd738d9912c","name":"UserTask1-taskform.frm","model":{"taskName":"UserTask1","processId":"SLAViolationTest","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
