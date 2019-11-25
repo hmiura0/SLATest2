@@ -10,7 +10,7 @@
   <description></description>
     
   <properties>
-        <runtime.version>7.26.0.Final-redhat-00005</jbpm.version>
+        <runtime.version>7.26.0.Final-redhat-00005</runtime.version>
   </properties>
 
   <dependencies>
