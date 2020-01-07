@@ -231,7 +231,7 @@
       	    <timer-service thread-pool-name="default" default-data-store="ejb_timer-EJB_TIMER_ds">
  	      <data-stores>
 	          <file-data-store name="default-file-store" path="timer-service-data" relative-to="jboss.server.data.dir"/>
-	          <database-data-store name="ejb_timer-EJB_TIMER_ds" datasource-jndi-name="java:/jboss/datasources/rhpam_EJBTimer" database="postgresql" partition="ejb_timer-EJB_TIMER_app2" refresh-interval="30000"/>
+	          <database-data-store name="ejb_timer-EJB_TIMER_ds" datasource-jndi-name="java:/jboss/datasources/rhpam_EJBTimer" database="postgresql" partition="ejb_timer-EJB_TIMER_app3" refresh-interval="30000"/>
           <!-- ##DATASTORES## -->
                  </data-stores>
             </timer-service>
